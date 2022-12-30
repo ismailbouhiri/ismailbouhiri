@@ -1,4 +1,4 @@
-# Hi wave My name is Ismail Bouhiri
+# Hi 👋 My name is Ismail Bouhiri 
 
 ### Front-End Developer
 
