@@ -6,7 +6,7 @@ As a software developer with a passion for technology and a talent for problem-s
 
   *  🗺️ I'm based in Morocco
 
-  *  📫 You can contact me at ibouhiri@student.1337.ma
+  *  📫 You can contact me at bouhiri.ismail@gmail.com
 
   *  🤝 I'm open to collaborating on interesting projects
 
